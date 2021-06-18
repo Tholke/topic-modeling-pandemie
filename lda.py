@@ -20,5 +20,22 @@ if __name__=='__main__':
     id2word = gensim.corpora.Dictionary(corpus)
     corpus = [id2word.doc2bow(document) for document in corpus]
 
-    lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus, id2word=id2word, num_topics=5)
-    print(lda_model.print_topics())
+    tf_idf = gensim.models.tfidfmodel.TfidfModel(corpus=corpus, id2word=id2word)
+
+    cleaned_corpus = []
+    for document in corpus:
+        tf_idf_matrix = tf_idf[document]
+        tf_idf_matrix = sorted(tf_idf_matrix, reverse=True, key=lambda word: word[1])
+
+        cleaned_document = []
+        for word in document:
+            for tf_word in tf_idf_matrix[:100]:
+                if word[0] == tf_word[0]:
+                    cleaned_document.append(word)
+                    break
+        cleaned_corpus.append(cleaned_document)
+
+    lda_model = gensim.models.ldamodel.LdaModel(corpus=cleaned_corpus, id2word=id2word, num_topics=5)
+
+    for topic in range(5):
+        print(f'Topic {topic}: {lda_model.print_topic(topic)}')
