@@ -38,6 +38,8 @@ if __name__=='__main__':
     for key in fields_by_topic:
         topics[key] = {}
 
+    topics_per_file = {}
+
     with open(JSON_PATH, 'r') as json_file:
         pdf_list = json.load(json_file)
 
@@ -56,9 +58,19 @@ if __name__=='__main__':
                                 except KeyError:
                                     topics_in_text[topic] = 1
 
+                topic_ratios = {}
+                sum_mentions = sum([topics_in_text[topic] for topic in topics_in_text])
+
                 for topic in topics_in_text:
+                    topic_ratios[topic] = topics_in_text[topic] / sum_mentions
                     topics[topic][pdf_id] = topics_in_text[topic]
 
 
-    with open('topics.json', 'w') as json_file:
+
+                topics_per_file[pdf_id] = topic_ratios
+
+    with open('semantic_topics.json', 'w') as json_file:
         json.dump(topics, json_file, indent = 2, ensure_ascii=False)
+
+    with open('semantic_topics_per_file.json', 'w') as json_file:
+        json.dump(topics_per_file, json_file, indent = 2, ensure_ascii=False)
