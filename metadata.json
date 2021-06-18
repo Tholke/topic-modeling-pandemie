@@ -1,0 +1,1179 @@
+[
+  {
+    "id": "91",
+    "title": "Die Pandemie, der Impfstoff und die Kinde",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript300.pdf",
+    "save_path": "pdfs/91_Die Pandemie, der Impfstoff und die Kinde.pdf",
+    "text_path": "texts/91_Die Pandemie, der Impfstoff und die Kinde.json"
+  },
+  {
+    "id": "90",
+    "title": "Das Virus auf der Standspur",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript298.pdf",
+    "save_path": "pdfs/90_Das Virus auf der Standspur.pdf",
+    "date": {
+      "year": 2021,
+      "month": 5,
+      "day": 25,
+      "time": "17:25"
+    },
+    "text_path": "texts/90_Das Virus auf der Standspur.json"
+  },
+  {
+    "id": "89",
+    "title": "Gemeinsam gegen die Pandemie",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript296.pdf",
+    "save_path": "pdfs/89_Gemeinsam gegen die Pandemie.pdf",
+    "date": {
+      "year": 2021,
+      "month": 5,
+      "day": 18,
+      "time": "17:20"
+    },
+    "text_path": "texts/89_Gemeinsam gegen die Pandemie.json"
+  },
+  {
+    "id": "88",
+    "title": "Impfmission possible",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript294.pdf",
+    "save_path": "pdfs/88_Impfmission possible.pdf",
+    "date": {
+      "year": 2021,
+      "month": 5,
+      "day": 11,
+      "time": "17:30"
+    },
+    "text_path": "texts/88_Impfmission possible.json"
+  },
+  {
+    "id": "86",
+    "title": "Das Beispiel Indien",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript290.pdf",
+    "save_path": "pdfs/86_Das Beispiel Indien.pdf",
+    "date": {
+      "year": 2021,
+      "month": 4,
+      "day": 27,
+      "time": "17:39"
+    },
+    "text_path": "texts/86_Das Beispiel Indien.json"
+  },
+  {
+    "id": "87",
+    "title": "Die zweite Spritze macht den Unterschied",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript292.pdf",
+    "save_path": "pdfs/87_Die zweite Spritze macht den Unterschied.pdf",
+    "date": {
+      "year": 2021,
+      "month": 5,
+      "day": 4,
+      "time": "17:42"
+    },
+    "text_path": "texts/87_Die zweite Spritze macht den Unterschied.json"
+  },
+  {
+    "id": "85",
+    "title": "Risiken und Nebenwirkungen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript288.pdf",
+    "save_path": "pdfs/85_Risiken und Nebenwirkungen.pdf",
+    "date": {
+      "year": 2021,
+      "month": 4,
+      "day": 20,
+      "time": "17:00"
+    },
+    "text_path": "texts/85_Risiken und Nebenwirkungen.json"
+  },
+  {
+    "id": "84",
+    "title": "Nicht auf Tests und Impfungen verlassen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript286.pdf",
+    "save_path": "pdfs/84_Nicht auf Tests und Impfungen verlassen.pdf",
+    "date": {
+      "year": 2021,
+      "month": 4,
+      "day": 13,
+      "time": "17:18"
+    },
+    "text_path": "texts/84_Nicht auf Tests und Impfungen verlassen.json"
+  },
+  {
+    "id": "83",
+    "title": "Impfeffekt noch nicht in Sicht",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript284.pdf",
+    "save_path": "pdfs/83_Impfeffekt noch nicht in Sicht.pdf",
+    "date": {
+      "year": 2021,
+      "month": 4,
+      "day": 6,
+      "time": "17:26"
+    },
+    "text_path": "texts/83_Impfeffekt noch nicht in Sicht.json"
+  },
+  {
+    "id": "82",
+    "title": "Die Lage ist ernst",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript282.pdf",
+    "save_path": "pdfs/82_Die Lage ist ernst.pdf",
+    "date": {
+      "year": 2021,
+      "month": 3,
+      "day": 30,
+      "time": "17:49"
+    },
+    "text_path": "texts/82_Die Lage ist ernst.json"
+  },
+  {
+    "id": "81",
+    "title": "AstraZeneca, Kurz-Lockdown und PIMS-Syndrom",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript280.pdf",
+    "save_path": "pdfs/81_AstraZeneca, Kurz-Lockdown und PIMS-Syndrom.pdf",
+    "date": {
+      "year": 2021,
+      "month": 3,
+      "day": 23,
+      "time": "17:13"
+    },
+    "text_path": "texts/81_AstraZeneca, Kurz-Lockdown und PIMS-Syndrom.json"
+  },
+  {
+    "id": "80",
+    "title": "Dritte Welle ohne Impfung nicht beherrschbar",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript278.pdf",
+    "save_path": "pdfs/80_Dritte Welle ohne Impfung nicht beherrschbar.pdf",
+    "date": {
+      "year": 2021,
+      "month": 3,
+      "day": 16,
+      "time": "17:04"
+    },
+    "text_path": "texts/80_Dritte Welle ohne Impfung nicht beherrschbar.json"
+  },
+  {
+    "id": "79",
+    "title": "Angriffspunkte für das Virus",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript276.pdf",
+    "save_path": "pdfs/79_Angriffspunkte für das Virus.pdf",
+    "date": {
+      "year": 2021,
+      "month": 3,
+      "day": 9,
+      "time": "17:00"
+    },
+    "text_path": "texts/79_Angriffspunkte für das Virus.json"
+  },
+  {
+    "id": "78",
+    "title": "Die Uhr tickt",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript274.pdf",
+    "save_path": "pdfs/78_Die Uhr tickt.pdf",
+    "date": {
+      "year": 2021,
+      "month": 3,
+      "day": 2,
+      "time": "17:42"
+    },
+    "text_path": "texts/78_Die Uhr tickt.json"
+  },
+  {
+    "id": "77",
+    "title": "Mutante, Schnelltests, Medikamente",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript272.pdf",
+    "save_path": "pdfs/77_Mutante, Schnelltests, Medikamente.pdf",
+    "date": {
+      "year": 2021,
+      "month": 2,
+      "day": 23,
+      "time": "17:17"
+    },
+    "text_path": "texts/77_Mutante, Schnelltests, Medikamente.json"
+  },
+  {
+    "id": "76",
+    "title": "AstraZeneca-Impfstoff besser als sein Ruf",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript270.pdf",
+    "save_path": "pdfs/76_AstraZeneca-Impfstoff besser als sein Ruf.pdf",
+    "date": {
+      "year": 2021,
+      "month": 2,
+      "day": 16,
+      "time": "17:30"
+    },
+    "text_path": "texts/76_AstraZeneca-Impfstoff besser als sein Ruf.json"
+  },
+  {
+    "id": "75",
+    "title": "Impfen, impfen, impfen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript268.pdf",
+    "save_path": "pdfs/75_Impfen, impfen, impfen.pdf",
+    "date": {
+      "year": 2021,
+      "month": 2,
+      "day": 9,
+      "time": "17:05"
+    },
+    "text_path": "texts/75_Impfen, impfen, impfen.json"
+  },
+  {
+    "id": "74",
+    "title": "Durststrecke mindestens bis Ostern",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript266.pdf",
+    "save_path": "pdfs/74_Durststrecke mindestens bis Ostern.pdf",
+    "date": {
+      "year": 2021,
+      "month": 2,
+      "day": 2,
+      "time": "17:05"
+    },
+    "text_path": "texts/74_Durststrecke mindestens bis Ostern.json"
+  },
+  {
+    "id": "73",
+    "title": "Dem Virus zuvorkommen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript264.pdf",
+    "save_path": "pdfs/73_Dem Virus zuvorkommen.pdf",
+    "date": {
+      "year": 2021,
+      "month": 1,
+      "day": 26,
+      "time": "17:05"
+    },
+    "text_path": "texts/73_Dem Virus zuvorkommen.json"
+  },
+  {
+    "id": "72",
+    "title": "Menschen, Maßnahmen, Mutationen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript262.pdf",
+    "save_path": "pdfs/72_Menschen, Maßnahmen, Mutationen.pdf",
+    "date": {
+      "year": 2021,
+      "month": 1,
+      "day": 19,
+      "time": "16:40"
+    },
+    "text_path": "texts/72_Menschen, Maßnahmen, Mutationen.json"
+  },
+  {
+    "id": "71",
+    "title": "Mehr Licht am Ende des Tunnels",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript258.pdf",
+    "save_path": "pdfs/71_Mehr Licht am Ende des Tunnels.pdf",
+    "date": {
+      "year": 2021,
+      "month": 1,
+      "day": 12,
+      "time": "16:52"
+    },
+    "text_path": "texts/71_Mehr Licht am Ende des Tunnels.json"
+  },
+  {
+    "id": "70",
+    "title": "Die Mutanten im Blick behalten",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript256.pdf",
+    "save_path": "pdfs/70_Die Mutanten im Blick behalten.pdf",
+    "date": {
+      "year": 2021,
+      "month": 1,
+      "day": 5,
+      "time": "17:24"
+    },
+    "text_path": "texts/70_Die Mutanten im Blick behalten.json"
+  },
+  {
+    "id": "69",
+    "title": "Das Virus macht keine Geschenke",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript254.pdf",
+    "save_path": "pdfs/69_Das Virus macht keine Geschenke.pdf",
+    "date": {
+      "year": 2020,
+      "month": 12,
+      "day": 15,
+      "time": "16:45"
+    },
+    "text_path": "texts/69_Das Virus macht keine Geschenke.json"
+  },
+  {
+    "id": "68",
+    "title": "Harter Lockdown jetzt?",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript252.pdf",
+    "save_path": "pdfs/68_Harter Lockdown jetzt?.pdf",
+    "date": {
+      "year": 2020,
+      "month": 12,
+      "day": 8,
+      "time": "16:50"
+    },
+    "text_path": "texts/68_Harter Lockdown jetzt?.json"
+  },
+  {
+    "id": "67",
+    "title": "Der lange Schatten des Virus",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript250.pdf",
+    "save_path": "pdfs/67_Der lange Schatten des Virus.pdf",
+    "date": {
+      "year": 2020,
+      "month": 12,
+      "day": 1,
+      "time": "16:45"
+    },
+    "text_path": "texts/67_Der lange Schatten des Virus.json"
+  },
+  {
+    "id": "66",
+    "title": "Die Stunde der Antigentests",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript246.pdf",
+    "save_path": "pdfs/66_Die Stunde der Antigentests.pdf",
+    "date": {
+      "year": 2020,
+      "month": 11,
+      "day": 24,
+      "time": "16:45"
+    },
+    "text_path": "texts/66_Die Stunde der Antigentests.json"
+  },
+  {
+    "id": "65",
+    "title": "Die Löcher im Käse",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript244.pdf",
+    "save_path": "pdfs/65_Die Löcher im Käse.pdf",
+    "date": {
+      "year": 2020,
+      "month": 11,
+      "day": 17,
+      "time": "16:50"
+    },
+    "text_path": "texts/65_Die Löcher im Käse.json"
+  },
+  {
+    "id": "64",
+    "title": "Keine Angst vor Mutationen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript242.pdf",
+    "save_path": "pdfs/64_Keine Angst vor Mutationen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 11,
+      "day": 10,
+      "time": "16:45"
+    },
+    "text_path": "texts/64_Keine Angst vor Mutationen.json"
+  },
+  {
+    "id": "63",
+    "title": "Risikogruppen kann man nicht wegsperren",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript240.pdf",
+    "save_path": "pdfs/63_Risikogruppen kann man nicht wegsperren.pdf",
+    "date": {
+      "year": 2020,
+      "month": 11,
+      "day": 3,
+      "time": "18:08"
+    },
+    "text_path": "texts/63_Risikogruppen kann man nicht wegsperren.json"
+  },
+  {
+    "id": "62",
+    "title": "Der Überlastschalter",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript238.pdf",
+    "save_path": "pdfs/62_Der Überlastschalter.pdf",
+    "date": {
+      "year": 2020,
+      "month": 10,
+      "day": 27,
+      "time": "16:45"
+    },
+    "text_path": "texts/62_Der Überlastschalter.json"
+  },
+  {
+    "id": "61",
+    "title": "Winter is coming",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript236.pdf",
+    "save_path": "pdfs/61_Winter is coming.pdf",
+    "date": {
+      "year": 2020,
+      "month": 10,
+      "day": 20,
+      "time": "16:45"
+    },
+    "text_path": "texts/61_Winter is coming.json"
+  },
+  {
+    "id": "60",
+    "title": "Das Dilemma der Politik",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript234.pdf",
+    "save_path": "pdfs/60_Das Dilemma der Politik.pdf",
+    "date": {
+      "year": 2020,
+      "month": 10,
+      "day": 13,
+      "time": "16:45"
+    },
+    "text_path": "texts/60_Das Dilemma der Politik.json"
+  },
+  {
+    "id": "59",
+    "title": "Der amerikanische Patient",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript232.pdf",
+    "save_path": "pdfs/59_Der amerikanische Patient.pdf",
+    "date": {
+      "year": 2020,
+      "month": 10,
+      "day": 6,
+      "time": "17:10"
+    },
+    "text_path": "texts/59_Der amerikanische Patient.json"
+  },
+  {
+    "id": "58",
+    "title": "Das Gedächtnis der Zellen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript230.pdf",
+    "save_path": "pdfs/58_Das Gedächtnis der Zellen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 9,
+      "day": 29,
+      "time": "16:57"
+    },
+    "text_path": "texts/58_Das Gedächtnis der Zellen.json"
+  },
+  {
+    "id": "57",
+    "title": "Goldstandard bleibt der PCR-Test",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript228.pdf",
+    "save_path": "pdfs/57_Goldstandard bleibt der PCR-Test.pdf",
+    "date": {
+      "year": 2020,
+      "month": 9,
+      "day": 22,
+      "time": "16:46"
+    },
+    "text_path": "texts/57_Goldstandard bleibt der PCR-Test.json"
+  },
+  {
+    "id": "56",
+    "title": "Das Afrika-Rätsel",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript226.pdf",
+    "save_path": "pdfs/56_Das Afrika-Rätsel.pdf",
+    "date": {
+      "year": 2020,
+      "month": 9,
+      "day": 15,
+      "time": "16:45"
+    },
+    "text_path": "texts/56_Das Afrika-Rätsel.json"
+  },
+  {
+    "id": "55",
+    "title": "Der weiße Fleck in der Pandemie",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript224.pdf",
+    "save_path": "pdfs/55_Der weiße Fleck in der Pandemie.pdf",
+    "date": {
+      "year": 2020,
+      "month": 9,
+      "day": 8,
+      "time": "14:10"
+    },
+    "text_path": "texts/55_Der weiße Fleck in der Pandemie.json"
+  },
+  {
+    "id": "54",
+    "title": "Eine Empfehlung für den Herbst",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript222.pdf",
+    "save_path": "pdfs/54_Eine Empfehlung für den Herbst.pdf",
+    "date": {
+      "year": 2020,
+      "month": 9,
+      "day": 1,
+      "time": "15:40"
+    },
+    "text_path": "texts/54_Eine Empfehlung für den Herbst.json"
+  },
+  {
+    "id": "53",
+    "title": "Sonderausgabe: Wie kommen wir ohne Lockdown durch den Herbst?",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript220.pdf",
+    "save_path": "pdfs/53_Sonderausgabe: Wie kommen wir ohne Lockdown durch den Herbst?.pdf",
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 27,
+      "time": "09:50"
+    },
+    "text_path": "texts/53_Sonderausgabe: Wie kommen wir ohne Lockdown durch den Herbst?.json"
+  },
+  {
+    "id": "52",
+    "title": "Sonderausgabe: Der Wettlauf um den Impfstoff",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript218.pdf",
+    "save_path": "pdfs/52_Sonderausgabe: Der Wettlauf um den Impfstoff.pdf",
+    "date": {
+      "year": 2020,
+      "month": 8,
+      "day": 6,
+      "time": "14:15"
+    },
+    "text_path": "texts/52_Sonderausgabe: Der Wettlauf um den Impfstoff.json"
+  },
+  {
+    "id": "51",
+    "title": "Sonderausgabe: Leben mit Ungewissheit",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript216.pdf",
+    "save_path": "pdfs/51_Sonderausgabe: Leben mit Ungewissheit.pdf",
+    "date": {
+      "year": 2020,
+      "month": 7,
+      "day": 16,
+      "time": "12:35"
+    },
+    "text_path": "texts/51_Sonderausgabe: Leben mit Ungewissheit.json"
+  },
+  {
+    "id": "50",
+    "title": "Das Virus kommt wieder",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript214.pdf",
+    "save_path": "pdfs/50_Das Virus kommt wieder.pdf",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 23,
+      "time": "14:24"
+    },
+    "text_path": "texts/50_Das Virus kommt wieder.json"
+  },
+  {
+    "id": "49",
+    "title": "Es liegt in unserer Hand",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript212.pdf",
+    "save_path": "pdfs/49_Es liegt in unserer Hand.pdf",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 16,
+      "time": "13:16"
+    },
+    "text_path": "texts/49_Es liegt in unserer Hand.json"
+  },
+  {
+    "id": "48",
+    "title": "There is glory in prevention",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript210.pdf",
+    "save_path": "pdfs/48_There is glory in prevention.pdf",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 11,
+      "time": "14:23"
+    },
+    "text_path": "texts/48_There is glory in prevention.json"
+  },
+  {
+    "id": "47",
+    "title": "Mutationen können auch Hoffnung bieten",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript208.pdf",
+    "save_path": "pdfs/47_Mutationen können auch Hoffnung bieten.pdf",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 9,
+      "time": "14:27"
+    },
+    "text_path": "texts/47_Mutationen können auch Hoffnung bieten.json"
+  },
+  {
+    "id": "46",
+    "title": "Viruslast-Studie durch Update bestätigt",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript206.pdf",
+    "save_path": "pdfs/46_Viruslast-Studie durch Update bestätigt.pdf",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 4,
+      "time": "15:22"
+    },
+    "text_path": "texts/46_Viruslast-Studie durch Update bestätigt.json"
+  },
+  {
+    "id": "45",
+    "title": "Abstandsgebot auch draußen ernst nehmen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript204.pdf",
+    "save_path": "pdfs/45_Abstandsgebot auch draußen ernst nehmen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 2,
+      "time": "13:50"
+    },
+    "text_path": "texts/45_Abstandsgebot auch draußen ernst nehmen.json"
+  },
+  {
+    "id": "44",
+    "title": "Die rote Murmel kontrollieren",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript202.pdf",
+    "save_path": "pdfs/44_Die rote Murmel kontrollieren.pdf",
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 28,
+      "time": "14:00"
+    },
+    "text_path": "texts/44_Die rote Murmel kontrollieren.json"
+  },
+  {
+    "id": "43",
+    "title": "Das Leben nach draußen verlagern",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript200.pdf",
+    "save_path": "pdfs/43_Das Leben nach draußen verlagern.pdf",
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 26,
+      "time": "14:00"
+    },
+    "text_path": "texts/43_Das Leben nach draußen verlagern.json"
+  },
+  {
+    "id": "42",
+    "title": "Bei der Schweinegrippe kam alles anders",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript198.pdf",
+    "save_path": "pdfs/42_Bei der Schweinegrippe kam alles anders.pdf",
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 19,
+      "time": "15:00"
+    },
+    "text_path": "texts/42_Bei der Schweinegrippe kam alles anders.json"
+  },
+  {
+    "id": "41",
+    "title": "Der Tanz mit dem Tiger",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript196.pdf",
+    "save_path": "pdfs/41_Der Tanz mit dem Tiger.pdf",
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 14,
+      "time": "13:44"
+    },
+    "text_path": "texts/41_Der Tanz mit dem Tiger.json"
+  },
+  {
+    "id": "40",
+    "title": "Jetzt ist Alltagsverstand gefragt",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript194.pdf",
+    "save_path": "pdfs/40_Jetzt ist Alltagsverstand gefragt.pdf",
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 12,
+      "time": "14:00"
+    },
+    "text_path": "texts/40_Jetzt ist Alltagsverstand gefragt.json"
+  },
+  {
+    "id": "39",
+    "title": "Welche Chancen neue Tests bieten",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript192.pdf",
+    "save_path": "pdfs/39_Welche Chancen neue Tests bieten.pdf",
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 7,
+      "time": "13:42"
+    },
+    "text_path": "texts/39_Welche Chancen neue Tests bieten.json"
+  },
+  {
+    "id": "38",
+    "title": "Geöffnete Schulen bleiben ein Risiko",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript190.pdf",
+    "save_path": "pdfs/38_Geöffnete Schulen bleiben ein Risiko.pdf",
+    "date": {
+      "year": 2020,
+      "month": 5,
+      "day": 5,
+      "time": "14:15"
+    },
+    "text_path": "texts/38_Geöffnete Schulen bleiben ein Risiko.json"
+  },
+  {
+    "id": "37",
+    "title": "Noch mal Thema Kinder: Zwei neue Studien",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript188.pdf",
+    "save_path": "pdfs/37_Noch mal Thema Kinder: Zwei neue Studien.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 30,
+      "time": "13:13"
+    },
+    "text_path": "texts/37_Noch mal Thema Kinder: Zwei neue Studien.json"
+  },
+  {
+    "id": "36",
+    "title": "Die Rolle von Kindern ist nicht geklärt",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript186.pdf",
+    "save_path": "pdfs/36_Die Rolle von Kindern ist nicht geklärt.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 28,
+      "time": "14:00"
+    },
+    "text_path": "texts/36_Die Rolle von Kindern ist nicht geklärt.json"
+  },
+  {
+    "id": "35",
+    "title": "Vielversprechende Impfstudie aus China",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript184.pdf",
+    "save_path": "pdfs/35_Vielversprechende Impfstudie aus China.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 24,
+      "time": "14:00"
+    },
+    "text_path": "texts/35_Vielversprechende Impfstudie aus China.json"
+  },
+  {
+    "id": "34",
+    "title": "Verspielen wir unseren Vorsprung?",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript182.pdf",
+    "save_path": "pdfs/34_Verspielen wir unseren Vorsprung?.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 22,
+      "time": "14:46"
+    },
+    "text_path": "texts/34_Verspielen wir unseren Vorsprung?.json"
+  },
+  {
+    "id": "33",
+    "title": "Herdenimmunität noch lange nicht in Sicht",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript180.pdf",
+    "save_path": "pdfs/33_Herdenimmunität noch lange nicht in Sicht.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 20,
+      "time": "13:50"
+    },
+    "text_path": "texts/33_Herdenimmunität noch lange nicht in Sicht.json"
+  },
+  {
+    "id": "32",
+    "title": "Jetzt mit Hochdruck Forschungsfragen klären",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript178.pdf",
+    "save_path": "pdfs/32_Jetzt mit Hochdruck Forschungsfragen klären.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 16,
+      "time": "14:00"
+    },
+    "text_path": "texts/32_Jetzt mit Hochdruck Forschungsfragen klären.json"
+  },
+  {
+    "id": "31",
+    "title": "Eine Wiederinfektion bleibt unwahrscheinlich",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript176.pdf",
+    "save_path": "pdfs/31_Eine Wiederinfektion bleibt unwahrscheinlich.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 14,
+      "time": "13:40"
+    },
+    "text_path": "texts/31_Eine Wiederinfektion bleibt unwahrscheinlich.json"
+  },
+  {
+    "id": "30",
+    "title": "Forscher hoffen auf Datenspenden",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript172.pdf",
+    "save_path": "pdfs/30_Forscher hoffen auf Datenspenden.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 8,
+      "time": "14:00"
+    },
+    "text_path": "texts/30_Forscher hoffen auf Datenspenden.json"
+  },
+  {
+    "id": "29",
+    "title": "Tests müssen gezielter eingesetzt werden",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript170.pdf",
+    "save_path": "pdfs/29_Tests müssen gezielter eingesetzt werden.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 7,
+      "time": "13:15"
+    },
+    "text_path": "texts/29_Tests müssen gezielter eingesetzt werden.json"
+  },
+  {
+    "id": "28",
+    "title": "Auch die Atemluft spielt eine Rolle",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript162.pdf",
+    "save_path": "pdfs/28_Auch die Atemluft spielt eine Rolle.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 6,
+      "time": "13:30"
+    },
+    "text_path": "texts/28_Auch die Atemluft spielt eine Rolle.json"
+  },
+  {
+    "id": "27",
+    "title": "Handy-Apps können eine Perspektive bieten",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript160.pdf",
+    "save_path": "pdfs/27_Handy-Apps können eine Perspektive bieten.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 3,
+      "time": "13:14"
+    },
+    "text_path": "texts/27_Handy-Apps können eine Perspektive bieten.json"
+  },
+  {
+    "id": "26",
+    "title": "Genbasierte Impfstoffe haben Potential",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript158.pdf",
+    "save_path": "pdfs/26_Genbasierte Impfstoffe haben Potential.pdf",
+    "date": {
+      "year": 2020,
+      "month": 4,
+      "day": 2,
+      "time": "13:30"
+    },
+    "text_path": "texts/26_Genbasierte Impfstoffe haben Potential.json"
+  },
+  {
+    "id": "25",
+    "title": "Persönliche Sicherheit durch Mobilfunk-Daten",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript156.pdf",
+    "save_path": "pdfs/25_Persönliche Sicherheit durch Mobilfunk-Daten.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 31,
+      "time": "13:15"
+    },
+    "text_path": "texts/25_Persönliche Sicherheit durch Mobilfunk-Daten.json"
+  },
+  {
+    "id": "24",
+    "title": "Wir müssen weiter geduldig sein",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript154.pdf",
+    "save_path": "pdfs/24_Wir müssen weiter geduldig sein.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 30,
+      "time": "12:50"
+    },
+    "text_path": "texts/24_Wir müssen weiter geduldig sein.json"
+  },
+  {
+    "id": "23",
+    "title": "Die Forschung braucht jetzt ein Netzwerk",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript152.pdf",
+    "save_path": "pdfs/23_Die Forschung braucht jetzt ein Netzwerk.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 27,
+      "time": "13:00"
+    },
+    "text_path": "texts/23_Die Forschung braucht jetzt ein Netzwerk.json"
+  },
+  {
+    "id": "22",
+    "title": "Noch kein Durchbruch bei Medikamenten",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript146.pdf",
+    "save_path": "pdfs/22_Noch kein Durchbruch bei Medikamenten.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 26,
+      "time": "12:50"
+    },
+    "text_path": "texts/22_Noch kein Durchbruch bei Medikamenten.json"
+  },
+  {
+    "id": "21",
+    "title": "Antikörpertests kommen bald",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript142.pdf",
+    "save_path": "pdfs/21_Antikörpertests kommen bald.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 25,
+      "time": "13:10"
+    },
+    "text_path": "texts/21_Antikörpertests kommen bald.json"
+  },
+  {
+    "id": "20",
+    "title": "Deutschland kann nur bedingt von anderen lernen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript140.pdf",
+    "save_path": "pdfs/20_Deutschland kann nur bedingt von anderen lernen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 24,
+      "time": "13:27"
+    },
+    "text_path": "texts/20_Deutschland kann nur bedingt von anderen lernen.json"
+  },
+  {
+    "id": "19",
+    "title": "Masken können andere schützen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript138.pdf",
+    "save_path": "pdfs/19_Masken können andere schützen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 23,
+      "time": "13:10"
+    },
+    "text_path": "texts/19_Masken können andere schützen.json"
+  },
+  {
+    "id": "18",
+    "title": "Wirksamkeit von Ausgangssperren ist unklar",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript136.pdf",
+    "save_path": "pdfs/18_Wirksamkeit von Ausgangssperren ist unklar.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 20,
+      "time": "13:00"
+    },
+    "text_path": "texts/18_Wirksamkeit von Ausgangssperren ist unklar.json"
+  },
+  {
+    "id": "17",
+    "title": "Malaria-Medikament vorerst kein Hoffnungsträger",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript134.pdf",
+    "save_path": "pdfs/17_Malaria-Medikament vorerst kein Hoffnungsträger.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 19,
+      "time": "13:13"
+    },
+    "text_path": "texts/17_Malaria-Medikament vorerst kein Hoffnungsträger.json"
+  },
+  {
+    "id": "16",
+    "title": "Wir brauchen Abkürzungen bei der Impfstoffzulassung",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript132.pdf",
+    "save_path": "pdfs/16_Wir brauchen Abkürzungen bei der Impfstoffzulassung.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 18,
+      "time": "13:15"
+    },
+    "text_path": "texts/16_Wir brauchen Abkürzungen bei der Impfstoffzulassung.json"
+  },
+  {
+    "id": "15",
+    "title": "Infizierte werden offenbar immun",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript130.pdf",
+    "save_path": "pdfs/15_Infizierte werden offenbar immun.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 17,
+      "time": "13:00"
+    },
+    "text_path": "texts/15_Infizierte werden offenbar immun.json"
+  },
+  {
+    "id": "14",
+    "title": "Vorsicht vor Vereinfachungen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript128.pdf",
+    "save_path": "pdfs/14_Vorsicht vor Vereinfachungen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 16,
+      "time": "12:25"
+    },
+    "text_path": "texts/14_Vorsicht vor Vereinfachungen.json"
+  },
+  {
+    "id": "13",
+    "title": "Natürlich kann man noch einkaufen gehen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript126.pdf",
+    "save_path": "pdfs/13_Natürlich kann man noch einkaufen gehen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 13,
+      "time": "12:50"
+    },
+    "text_path": "texts/13_Natürlich kann man noch einkaufen gehen.json"
+  },
+  {
+    "id": "12",
+    "title": "Schulen schließen und Gemeinden unterstützen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript124.pdf",
+    "save_path": "pdfs/12_Schulen schließen und Gemeinden unterstützen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 12,
+      "time": "13:55"
+    },
+    "text_path": "texts/12_Schulen schließen und Gemeinden unterstützen.json"
+  },
+  {
+    "id": "11",
+    "title": "Wir müssen jetzt gezielt handeln",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript122.pdf",
+    "save_path": "pdfs/11_Wir müssen jetzt gezielt handeln.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 11,
+      "time": "12:55"
+    },
+    "text_path": "texts/11_Wir müssen jetzt gezielt handeln.json"
+  },
+  {
+    "id": "10",
+    "title": "Großveranstaltungen absagen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript118.pdf",
+    "save_path": "pdfs/10_Großveranstaltungen absagen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 10,
+      "time": "12:42"
+    },
+    "text_path": "texts/10_Großveranstaltungen absagen.json"
+  },
+  {
+    "id": "9",
+    "title": "Wir müssen die älteren Menschen schützen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript116.pdf",
+    "save_path": "pdfs/9_Wir müssen die älteren Menschen schützen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 9,
+      "time": "12:54"
+    },
+    "text_path": "texts/9_Wir müssen die älteren Menschen schützen.json"
+  },
+  {
+    "id": "8",
+    "title": "Viren mutieren immer",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript114.pdf",
+    "save_path": "pdfs/8_Viren mutieren immer.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 6,
+      "time": "13:00"
+    },
+    "text_path": "texts/8_Viren mutieren immer.json"
+  },
+  {
+    "id": "7",
+    "title": "Es ist nicht die Zeit für Egoismus",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript112.pdf",
+    "save_path": "pdfs/7_Es ist nicht die Zeit für Egoismus.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 5,
+      "time": "14:00"
+    },
+    "text_path": "texts/7_Es ist nicht die Zeit für Egoismus.json"
+  },
+  {
+    "id": "6",
+    "title": "Ärzte und Pfleger regelmäßig testen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript110.pdf",
+    "save_path": "pdfs/6_Ärzte und Pfleger regelmäßig testen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 4,
+      "time": "13:00"
+    },
+    "text_path": "texts/6_Ärzte und Pfleger regelmäßig testen.json"
+  },
+  {
+    "id": "5",
+    "title": "Wir brauchen pragmatische Lösungen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript108.pdf",
+    "save_path": "pdfs/5_Wir brauchen pragmatische Lösungen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 3,
+      "time": "12:50"
+    },
+    "text_path": "texts/5_Wir brauchen pragmatische Lösungen.json"
+  },
+  {
+    "id": "4",
+    "title": "Infektionen werden weiter steigen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript106.pdf",
+    "save_path": "pdfs/4_Infektionen werden weiter steigen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 3,
+      "day": 2,
+      "time": "12:50"
+    },
+    "text_path": "texts/4_Infektionen werden weiter steigen.json"
+  },
+  {
+    "id": "3",
+    "title": "Es ist nicht schwarz-weiß",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript104.pdf",
+    "save_path": "pdfs/3_Es ist nicht schwarz-weiß.pdf",
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 28,
+      "time": "12:45"
+    },
+    "text_path": "texts/3_Es ist nicht schwarz-weiß.json"
+  },
+  {
+    "id": "2",
+    "title": "Panik ist unangebracht",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript102.pdf",
+    "save_path": "pdfs/2_Panik ist unangebracht.pdf",
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 27,
+      "time": "12:53"
+    },
+    "text_path": "texts/2_Panik ist unangebracht.json"
+  },
+  {
+    "id": "1",
+    "title": "Wir können die Ausbreitung verlangsamen",
+    "link": "https://www.ndr.de/nachrichten/info/coronaskript100.pdf",
+    "save_path": "pdfs/1_Wir können die Ausbreitung verlangsamen.pdf",
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 26,
+      "time": "13:03"
+    },
+    "text_path": "texts/1_Wir können die Ausbreitung verlangsamen.json"
+  }
+]
