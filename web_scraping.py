@@ -8,7 +8,7 @@ if __name__=='__main__':
     BASE_URL = 'https://www.ndr.de'
     SCRAPE_URL = BASE_URL + '/nachrichten/info/Coronavirus-Update-Die-Podcast-Folgen-als-Skript,podcastcoronavirus102.html'
     SAVE_DIR = 'pdfs/'
-    JSON_PATH = 'json.json'
+    JSON_PATH = 'metadata.json'
 
     site = requests.get(SCRAPE_URL)
     soup = BeautifulSoup(site.text, 'html.parser')
@@ -36,7 +36,7 @@ if __name__=='__main__':
     for pdf in pdfs:
         save_path = f'{SAVE_DIR}{pdf["id"]}_{pdf["title"]}.pdf'
         urllib.request.urlretrieve(f'{pdf["link"]}', save_path)
-        
+
         pdf['save_path'] = save_path
 
     with open(JSON_PATH, 'w') as json_output:

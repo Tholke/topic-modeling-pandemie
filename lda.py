@@ -3,7 +3,7 @@ import json
 
 if __name__=='__main__':
     corpus = []
-    JSON_PATH = 'json.json'
+    JSON_PATH = 'metadata.json'
 
     with open(JSON_PATH, 'r') as json_file:
         pdf_list = json.load(json_file)

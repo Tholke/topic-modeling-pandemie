@@ -22,7 +22,7 @@ def convert_date(date: str) -> dict:
 if __name__=='__main__':
     SCRAPE_URL = 'https://www.ndr.de/nachrichten/info/podcast4684.html'
     SAVE_DIR = 'pdfs/'
-    JSON_PATH = 'json.json'
+    JSON_PATH = 'metadata.json'
 
     site = requests.get(SCRAPE_URL)
     soup = BeautifulSoup(site.text, 'html.parser')

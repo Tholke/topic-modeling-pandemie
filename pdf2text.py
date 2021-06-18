@@ -79,7 +79,7 @@ def extract_pages(path: str) -> dict:
     return pages
 
 def main():
-    JSON_PATH = 'json.json'
+    JSON_PATH = 'metadata.json'
     SAVE_DIR = 'texts/'
 
     pdf_list = []

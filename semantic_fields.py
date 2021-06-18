@@ -30,7 +30,7 @@ def create_fields(topic_path: str) -> Tuple[Dict[str, List[str]], Dict[str, List
 
 if __name__=='__main__':
     TOPIC_PATH = 'topics/'
-    JSON_PATH = 'json.json'
+    JSON_PATH = 'metadata.json'
 
     fields_by_topic, fields_by_word = create_fields(TOPIC_PATH)
 
