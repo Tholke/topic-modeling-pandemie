@@ -1,5 +1,8 @@
 Infektiös
 Ansteckend
+Infektionsweg
+Schmierinfektion
+Tröpfcheninfektion
 Infektion
 Ansteckung
 Asymptomatischer Verlauf
@@ -14,7 +17,7 @@ Vulnerabilität
 Fallsterblichkeit
 Krankheitsverlauf
 Inkubationszeit
-imun
+immun
 Immunität
 Husten
 Fieber

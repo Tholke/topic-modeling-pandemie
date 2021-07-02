@@ -10,7 +10,7 @@ Kontaktbeschränkungen
 Ausgangssperre
 Teststrategie
 Maskenpflicht
-Schulschließung / Remote-Unterricht / Home schooling
+Schulschließung
 Homeoffice
 Rückholaktion
 Reisewarnung
@@ -22,8 +22,8 @@ Kontaktnachverfolgung
 Beherberungsverbot
 Intensivbetten
 Soforthilfen
-FFP-2-Masken / Mund-Nasen-Masken
-Hust- & Niesettikete
+FFP-2-Masken
+Hust- und Niesettikete
 Inzidenz
 7-Tage-Inzidenz
 Lockdown
@@ -33,3 +33,6 @@ AHAAL
 AHA
 Gesundheitsminister
 Jens Spahn
+Mund-Nasen-Masken
+Home schooling
+Remote-Unterricht

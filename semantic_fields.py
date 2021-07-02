@@ -65,8 +65,6 @@ if __name__=='__main__':
                     topic_ratios[topic] = topics_in_text[topic] / sum_mentions
                     topics[topic][pdf_id] = topics_in_text[topic]
 
-
-
                 topics_per_file[pdf_id] = topic_ratios
 
     with open('semantic_topics.json', 'w') as json_file:

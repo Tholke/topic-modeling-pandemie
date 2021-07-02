@@ -1,20 +1,24 @@
 Mutationen
-Infektionsweg
-Schmierinfektion
-Tröpfcheninfektion
 Aerosole
 R-Wert
 Spike-Protein
 SARS-CoV-2
 Corona
 Zoonose
-Inkubationszeit
 Superspreader
 Exponentielles Wachstum
 Indische Variante
+B.1.617
+Delta
 Britische Variante
+B.1.1.7
+Alpha
 Brasilianische Variante
+P.1
+Gamma
 Südafrikanische Variante
+B.1.351
+Beta
 Erste Welle
 Zweite Welle
 Dritte Welle
