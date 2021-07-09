@@ -1,0 +1,5 @@
+0: Krankheitsverlauf und Behandlung
+1: Aktuelles Pandemiegeschehen
+2: Impfstoff und Wissenschaft
+3: Politische und gesellschaftliche Debatte
+4: Tests und Testen
